@@ -1,8 +1,4 @@
 //Smart Car Parking System
-//Tanuj Kumar 2020csb1134
-//Jatin 2020csb1090
- 
-
 
 
 //Verilog Code for Car parking System 
