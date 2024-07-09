@@ -1,11 +1,3 @@
-//Testbench
-//Smart Car Parking System
-//Tanuj Kumar 2020csb1134
-//Jatin 2020csb1090
-
-//Smart Car Parking System
-//Tanuj Kumar 2020csb1134
-//Jatin 2020csb1090
 `timescale 1ns / 1ps
 `include "design.v"
 module tb_CAR_Parking_System;
