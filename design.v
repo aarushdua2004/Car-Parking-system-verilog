@@ -1,12 +1,6 @@
 // Code your design here
 //Smart Car Parking System
-//Tanuj Kumar 2020csb1134
-//Jatin 2020csb1090
-
-
 //Smart Car Parking System
-//Tanuj Kumar 2020csb1134
-//Jatin 2020csb1090
 
 `timescale 1ns / 1ps
 //Verilog Code for Car parking System
